@@ -1,5 +1,7 @@
 # projet_immo_1A
-Projet de Python 1A : création d'une interface graphique incluant des prédictions et des statistiques sur un bien et le quartier qui l'entoure à Paris.
+Projet de Python 1A réalisé avec Paul Contamin.
+
+Il s'agissait de créer une interface graphique incluant des prédictions et des statistiques sur un bien et le quartier qui l'entoure à Paris.
 
 Données :
 
